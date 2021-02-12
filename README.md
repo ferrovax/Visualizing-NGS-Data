@@ -18,3 +18,4 @@ $ python ngsDataVisualization.py
 
 ## Data Visualization Result
 ![heatmap](img/p384.png)
+Wells B18, B24, G10, K04, P06, and P23 are most significantly underrepresented. Well M06 and, to a lesser extent, A02 might also be worth consideration.
