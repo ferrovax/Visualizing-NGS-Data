@@ -2,7 +2,7 @@
 A visualization of 384-well plate next generation sequencing data to identify underrepresented wells.
 
 ## Install Dependencies
-Python includes csv and Matplotlib by default.
+Python includes csv, string and Matplotlib by default.
 For Seaborn:
 ```
 $ pip install seaborn
